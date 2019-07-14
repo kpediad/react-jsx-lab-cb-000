@@ -1,3 +1,5 @@
+import FillerText from './components/FillerText';
+
 export class Webpage extends Component {
   render() {
     return (
