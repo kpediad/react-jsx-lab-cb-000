@@ -6,6 +6,6 @@ export class Webpage extends Component {
         <FillerText />
         <FillerText />
       </main>
-    )
+    );
   }
 }
