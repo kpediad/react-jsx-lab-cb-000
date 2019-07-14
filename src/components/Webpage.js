@@ -1,6 +1,6 @@
 import FillerText from './components/FillerText';
 
-export class Webpage extends Component {
+export class Webpage extends React.Component {
   render() {
     return (
       <main>
