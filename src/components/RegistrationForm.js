@@ -1,4 +1,4 @@
-export class RegistrationForm extends Component {
+export class RegistrationForm extends React.Component {
   render() {
     return (
       <form>
